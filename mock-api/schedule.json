@@ -1,0 +1,90 @@
+[
+  {
+    "department": "Machinists",
+    "eventSchedule": [
+      {
+        "title": "Event 1(Round 1)",
+        "startYear": 2017,
+        "startMonth": 3,
+        "startDay": 17,
+        "startHour": 20,
+        "startMinute": 0,
+        "endYear": 2017,
+        "endMonth": 3,
+        "endDay": 17,
+        "endHour": 21,
+        "endMinute": 0
+      },
+      {
+        "title": "Event 2(Round 1)",
+        "startYear": 2017,
+        "startMonth": 3,
+        "startDay": 18,
+        "startHour": 8,
+        "startMinute": 0,
+        "endYear": 2017,
+        "endMonth": 3,
+        "endDay": 18,
+        "endHour": 9,
+        "endMinute": 0
+      },
+      {
+        "title": "Event 1(Round 2)",
+        "startYear": 2017,
+        "startMonth": 3,
+        "startDay": 18,
+        "startHour": 20,
+        "startMinute": 0,
+        "endYear": 2017,
+        "endMonth": 3,
+        "endDay": 18,
+        "endHour": 21,
+        "endMinute": 0
+      }
+    ]
+  },
+  {
+    "department": "KeyCoders",
+    "eventSchedule": [
+      {
+        "title": "Event 1(Round 1)",
+        "startYear": 2017,
+        "startMonth": 3,
+        "startDay": 17,
+        "startHour": 8,
+        "startMinute": 0,
+        "endYear": 2017,
+        "endMonth": 3,
+        "endDay": 17,
+        "endHour": 10,
+        "endMinute": 0
+      },
+      {
+        "title": "Event 2(Round 1)",
+        "startYear": 2017,
+        "startMonth": 3,
+        "startDay": 18,
+        "startHour": 11,
+        "startMinute": 0,
+        "endYear": 2017,
+        "endMonth": 3,
+        "endDay": 18,
+        "endHour": 12,
+        "endMinute": 0
+      },
+      {
+        "title": "Event 1(Round 2)",
+        "startYear": 2017,
+        "startMonth": 3,
+        "startDay": 18,
+        "startHour": 13,
+        "startMinute": 0,
+        "endYear": 2017,
+        "endMonth": 3,
+        "endDay": 18,
+        "endHour": 14,
+        "endMinute": 0
+      }
+    ]
+  }
+]
